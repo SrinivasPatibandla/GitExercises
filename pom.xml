@@ -1,4 +1,5 @@
 <project>
 <groupid>com.srinu</groupid>
-<artifactid>webapp</artifactid> 
+<artifactid>webapp</artifactid>
+<version>1.0</version>
 </project>
